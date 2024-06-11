@@ -1,0 +1,14 @@
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\weird_numbers\bin\Debug\net8.0\weird_numbers.exe
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\weird_numbers\bin\Debug\net8.0\weird_numbers.deps.json
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\weird_numbers\bin\Debug\net8.0\weird_numbers.runtimeconfig.json
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\weird_numbers\bin\Debug\net8.0\weird_numbers.dll
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\weird_numbers\bin\Debug\net8.0\weird_numbers.pdb
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\weird_numbers\obj\Debug\net8.0\weird_numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\weird_numbers\obj\Debug\net8.0\weird_numbers.AssemblyInfoInputs.cache
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\weird_numbers\obj\Debug\net8.0\weird_numbers.AssemblyInfo.cs
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\weird_numbers\obj\Debug\net8.0\weird_numbers.csproj.CoreCompileInputs.cache
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\weird_numbers\obj\Debug\net8.0\weird_numbers.dll
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\weird_numbers\obj\Debug\net8.0\refint\weird_numbers.dll
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\weird_numbers\obj\Debug\net8.0\weird_numbers.pdb
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\weird_numbers\obj\Debug\net8.0\weird_numbers.genruntimeconfig.cache
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\weird_numbers\obj\Debug\net8.0\ref\weird_numbers.dll
